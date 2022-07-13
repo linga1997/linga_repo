@@ -1,0 +1,21 @@
+{
+	"name": "ls_sink2",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_storage12",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "output"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
