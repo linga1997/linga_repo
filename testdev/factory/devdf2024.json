@@ -1,0 +1,9 @@
+{
+	"name": "devdf2024",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4b0e363b-1e1e-4db7-92f7-9cfc5c97d915",
+		"tenantId": "5dc1e65a-cf18-41a9-aa8c-3f38b982da8e"
+	}
+}
