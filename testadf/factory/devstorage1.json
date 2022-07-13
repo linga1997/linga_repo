@@ -1,0 +1,9 @@
+{
+	"name": "devstorage1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "abd7d5ab-9ef4-4263-ae8b-90c8a3c2c6c6",
+		"tenantId": "5dc1e65a-cf18-41a9-aa8c-3f38b982da8e"
+	}
+}
