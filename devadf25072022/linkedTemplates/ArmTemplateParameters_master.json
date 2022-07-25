@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "devadf25072022"
+		},
+		"ls_kv_properties_typeProperties_baseUrl": {
+			"value": "https://devadfkv2507.vault.azure.net/"
+		},
+		"ls_storage_properties_typeProperties_connectionString_secretName": {
+			"value": "lingasecret1"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
