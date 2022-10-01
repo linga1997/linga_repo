@@ -1,0 +1,9 @@
+{
+	"name": "lingaadfenv",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9cf9f4b2-0a7c-47a8-9ff2-592597a9ab8c",
+		"tenantId": "e7bf19e0-8fc8-45f2-83c2-dd1a6054572f"
+	}
+}
