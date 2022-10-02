@@ -1,10 +1,6 @@
 {
 	"name": "ds_sink",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "ls_storage",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
 		"type": "DelimitedText",
 		"typeProperties": {
