@@ -1,0 +1,9 @@
+{
+	"name": "devadflinga",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ba5cf589-168f-43a2-a7fb-0a865218130d",
+		"tenantId": "e7bf19e0-8fc8-45f2-83c2-dd1a6054572f"
+	}
+}
